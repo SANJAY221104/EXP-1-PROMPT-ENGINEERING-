@@ -20,7 +20,7 @@ Here are the steps of the process:
 
 
 ## Output
-[prompt exp 1.pdf](https://github.com/user-attachments/files/21981414/prompt.exp.1.pdf)
+[prompt exp-1.pdf](https://github.com/user-attachments/files/22070869/prompt.exp-1.pdf)
 
 ## Result
 Generative AI and LLMs are revolutionizing industries with human-like content creation and intelligent interactions. Despite challenges like bias and high computational cost, they hold vast potential. With responsible use, they can significantly shape the future of technology.
